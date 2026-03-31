@@ -2,7 +2,7 @@
 
 ## 🎓 Academic Details
 - **Branch:** Computer Science Engineering  
-- **Year:** 2nd Year  
+- **Year:** 1st year 
 
 ## 💡 About Me
 I am a dedicated and curious student who enjoys learning new technologies and improving my problem-solving skills.
